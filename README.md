@@ -4,7 +4,7 @@
 
 ![Ayron Sanfra GitHub stats](https://github-readme-stats.vercel.app/api?username=ZxalFox&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZxalFox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-##Técnologias que utilizo
+## Técnologias que utilizo
 
 <div style= "display: inline_block" style="align-itens: center"> <br>
 <img  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
